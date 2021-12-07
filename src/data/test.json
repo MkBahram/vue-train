@@ -1,0 +1,2006 @@
+[
+  {
+    "ID": 455,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "محتواي آموزش هاي برگزار شده متناسب با نيازهاي واقعي شغل من است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 455,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1540,
+        "RESID": 455,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1541,
+        "RESID": 455,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 29
+      },
+      {
+        "ID": 1542,
+        "RESID": 455,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1543,
+        "RESID": 455,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1544,
+        "RESID": 455,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1545,
+        "RESID": 455,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 456,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "اطلاع رسانی ها در خصوص دوره های آموزشی به خوبی انجام می شود.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 456,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1546,
+        "RESID": 456,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 12
+      },
+      {
+        "ID": 1547,
+        "RESID": 456,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 23
+      },
+      {
+        "ID": 1548,
+        "RESID": 456,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1549,
+        "RESID": 456,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1550,
+        "RESID": 456,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1551,
+        "RESID": 456,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 457,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "از زمان برگزاری دوره های آموزشی رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 457,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1552,
+        "RESID": 457,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1553,
+        "RESID": 457,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 18
+      },
+      {
+        "ID": 1554,
+        "RESID": 457,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1555,
+        "RESID": 457,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1556,
+        "RESID": 457,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1557,
+        "RESID": 457,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 458,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "دوره های آموزشی اجرا شده در بهبود و توسعه عملکرد کارکنان تاثیر مطلوبی دارد.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 458,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1558,
+        "RESID": 458,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1559,
+        "RESID": 458,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 27
+      },
+      {
+        "ID": 1560,
+        "RESID": 458,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1561,
+        "RESID": 458,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 5
+      },
+      {
+        "ID": 1562,
+        "RESID": 458,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1563,
+        "RESID": 458,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 459,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "گزارش بازخورد فردی که از کانون ارزیابی دریافت کرده ام، در مسیر توسعه فردی ام مفید و موثر است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 459,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1564,
+        "RESID": 459,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1565,
+        "RESID": 459,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 18
+      },
+      {
+        "ID": 1566,
+        "RESID": 459,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1567,
+        "RESID": 459,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 7
+      },
+      {
+        "ID": 1568,
+        "RESID": 459,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1569,
+        "RESID": 459,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 460,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "نتایج کانون ارزیابی از اعتبار لازم جهت شناسایی افراد با پتانسیل بالا و تصمیم گیری جهت ارتقا، انتصاب و جابجایی برخوردار است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 460,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1570,
+        "RESID": 460,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1571,
+        "RESID": 460,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 5
+      },
+      {
+        "ID": 1572,
+        "RESID": 460,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1573,
+        "RESID": 460,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 12
+      },
+      {
+        "ID": 1574,
+        "RESID": 460,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 8
+      },
+      {
+        "ID": 1575,
+        "RESID": 460,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 461,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "در برگزاری نظرسنجی از کارکنان فولاد هرمزگان (نسکافه) از نحوه برخورد و تعامل مجریان و ارائه راهنمایی ها حین برگزاری رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 461,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1576,
+        "RESID": 461,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1577,
+        "RESID": 461,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 30
+      },
+      {
+        "ID": 1578,
+        "RESID": 461,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1579,
+        "RESID": 461,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1580,
+        "RESID": 461,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1581,
+        "RESID": 461,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 462,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "در برگزاری نظرسنجی از کارکنان فولاد هرمزگان (نسکافه) از نحوه اطلاع رسانی و تبلیغات رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 462,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1582,
+        "RESID": 462,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 7
+      },
+      {
+        "ID": 1583,
+        "RESID": 462,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 28
+      },
+      {
+        "ID": 1584,
+        "RESID": 462,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1585,
+        "RESID": 462,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1586,
+        "RESID": 462,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1587,
+        "RESID": 462,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 463,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "گزارش هاي نسكافه به خوبی تدوین شده و کاربردی است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 463,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1588,
+        "RESID": 463,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1589,
+        "RESID": 463,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 14
+      },
+      {
+        "ID": 1590,
+        "RESID": 463,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 10
+      },
+      {
+        "ID": 1591,
+        "RESID": 463,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1592,
+        "RESID": 463,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1593,
+        "RESID": 463,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 464,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "برنامه های یادگیری و توسعه سطوح مدیریتی (برنامه توسعه فردی، یک فنجان کتاب، دوره های مدیریت صنعتی، Coaching ourselves و ...) اثربخش و مطلوب است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 464,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1594,
+        "RESID": 464,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1595,
+        "RESID": 464,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 22
+      },
+      {
+        "ID": 1596,
+        "RESID": 464,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1597,
+        "RESID": 464,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1598,
+        "RESID": 464,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1599,
+        "RESID": 464,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 465,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "از نحوه رسیدگی، تعامل و پاسخگویی همکاران واحد آموزش و توسعه منابع انسانی رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 465,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1600,
+        "RESID": 465,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1601,
+        "RESID": 465,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 20
+      },
+      {
+        "ID": 1602,
+        "RESID": 465,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1603,
+        "RESID": 465,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1604,
+        "RESID": 465,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1605,
+        "RESID": 465,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 466,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "با در نظر گرفتن همه موارد و محدوديت ها، از خدمات واحد آموزش و توسعه منابع انسانی رضايت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 466,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1606,
+        "RESID": 466,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1607,
+        "RESID": 466,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 32
+      },
+      {
+        "ID": 1608,
+        "RESID": 466,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 5
+      },
+      {
+        "ID": 1609,
+        "RESID": 466,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1610,
+        "RESID": 466,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1611,
+        "RESID": 466,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 467,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "در فولاد هرمزگان حقوق ها به موقع و سر وقت پرداخت مي شود.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 467,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1612,
+        "RESID": 467,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 19
+      },
+      {
+        "ID": 1613,
+        "RESID": 467,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 21
+      },
+      {
+        "ID": 1614,
+        "RESID": 467,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1615,
+        "RESID": 467,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1616,
+        "RESID": 467,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1617,
+        "RESID": 467,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 468,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "تمدید قرارداد کارکنان هر ساله به موقع انجام می شود.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 468,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1618,
+        "RESID": 468,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 16
+      },
+      {
+        "ID": 1619,
+        "RESID": 468,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 13
+      },
+      {
+        "ID": 1620,
+        "RESID": 468,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1621,
+        "RESID": 468,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1622,
+        "RESID": 468,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1623,
+        "RESID": 468,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 10
+      }
+    ]
+  },
+  {
+    "ID": 469,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "فرآیند ارتقای گروه شغلی کارکنان به موقع انجام می شود.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 469,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1624,
+        "RESID": 469,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 10
+      },
+      {
+        "ID": 1625,
+        "RESID": 469,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 16
+      },
+      {
+        "ID": 1626,
+        "RESID": 469,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1627,
+        "RESID": 469,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1628,
+        "RESID": 469,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1629,
+        "RESID": 469,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 2
+      }
+    ]
+  },
+  {
+    "ID": 470,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "شرایط و معیارهای اعطای وام داخلی شرکت (صندوق و ...) به خوبی تعیین شده است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 470,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1630,
+        "RESID": 470,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1631,
+        "RESID": 470,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 19
+      },
+      {
+        "ID": 1632,
+        "RESID": 470,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1633,
+        "RESID": 470,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1634,
+        "RESID": 470,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1635,
+        "RESID": 470,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 471,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "در مراجعه به مراکز درمانی، مشکل اعتبار و محاسبه سهم بیمه تامین اجتماعی را ندارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 471,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1636,
+        "RESID": 471,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1637,
+        "RESID": 471,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 12
+      },
+      {
+        "ID": 1638,
+        "RESID": 471,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1639,
+        "RESID": 471,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1640,
+        "RESID": 471,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 5
+      },
+      {
+        "ID": 1641,
+        "RESID": 471,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 472,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "مدت زمان صدور گواهي هاي مورد نياز (ضمانت، اشتغال به كار و ...) رضايت بخش است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 472,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1642,
+        "RESID": 472,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1643,
+        "RESID": 472,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 23
+      },
+      {
+        "ID": 1644,
+        "RESID": 472,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1645,
+        "RESID": 472,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 5
+      },
+      {
+        "ID": 1646,
+        "RESID": 472,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1647,
+        "RESID": 472,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 473,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "ضوابط دریافت گواهی ها (ضمانت، اشتغال به كار و ...) مناسب است و نیاز بنده را پوشش می دهد.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 473,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1648,
+        "RESID": 473,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1649,
+        "RESID": 473,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 22
+      },
+      {
+        "ID": 1650,
+        "RESID": 473,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1651,
+        "RESID": 473,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1652,
+        "RESID": 473,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1653,
+        "RESID": 473,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 474,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "نامه ها و پاکت هاي اداری به موقع دریافت و یا ارسال مي شود.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 474,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1654,
+        "RESID": 474,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1655,
+        "RESID": 474,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 12
+      },
+      {
+        "ID": 1656,
+        "RESID": 474,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 12
+      },
+      {
+        "ID": 1657,
+        "RESID": 474,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1658,
+        "RESID": 474,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1659,
+        "RESID": 474,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 6
+      }
+    ]
+  },
+  {
+    "ID": 475,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "از مدیریت كاربران در سیستم اتوماسیون اداری (ایجاد کاربر جدید، تعریف و تغییر سمت، ایجاد دسترسی ها و ...) رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 475,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1660,
+        "RESID": 475,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1661,
+        "RESID": 475,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 24
+      },
+      {
+        "ID": 1662,
+        "RESID": 475,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1663,
+        "RESID": 475,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1664,
+        "RESID": 475,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1665,
+        "RESID": 475,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 2
+      }
+    ]
+  },
+  {
+    "ID": 476,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "پس از اخذ تاییدات لازم توسط واحدهای ذی ربط (HSE، حراست و ...)، صدور حکم انتصاب به موقع انجام می شود.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 476,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1666,
+        "RESID": 476,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1667,
+        "RESID": 476,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 19
+      },
+      {
+        "ID": 1668,
+        "RESID": 476,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 7
+      },
+      {
+        "ID": 1669,
+        "RESID": 476,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1670,
+        "RESID": 476,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1671,
+        "RESID": 476,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 4
+      }
+    ]
+  },
+  {
+    "ID": 477,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "از نحوه رسیدگی، تعامل و پاسخگویی همکاران واحد اداری رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 477,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1672,
+        "RESID": 477,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 8
+      },
+      {
+        "ID": 1673,
+        "RESID": 477,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 15
+      },
+      {
+        "ID": 1674,
+        "RESID": 477,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1675,
+        "RESID": 477,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1676,
+        "RESID": 477,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1677,
+        "RESID": 477,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 478,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "با در نظر گرفتن همه موارد و محدودیت ها، از خدمات واحد اداری رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 478,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1678,
+        "RESID": 478,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 5
+      },
+      {
+        "ID": 1679,
+        "RESID": 478,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 19
+      },
+      {
+        "ID": 1680,
+        "RESID": 478,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1681,
+        "RESID": 478,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 5
+      },
+      {
+        "ID": 1682,
+        "RESID": 478,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1683,
+        "RESID": 478,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 479,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "سند شناسنامه پست (شرح وظایف) سازمانی ام در دسترس می باشد.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 479,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1684,
+        "RESID": 479,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1685,
+        "RESID": 479,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 15
+      },
+      {
+        "ID": 1686,
+        "RESID": 479,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 7
+      },
+      {
+        "ID": 1687,
+        "RESID": 479,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 12
+      },
+      {
+        "ID": 1688,
+        "RESID": 479,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 4
+      },
+      {
+        "ID": 1689,
+        "RESID": 479,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 480,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "وظایف من به صورت واقعی، شفاف و کامل بیان شده است که به سرعت به فهم درستی در انجام صحیح آن‌ها می رسم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 480,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1695,
+        "RESID": 480,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1690,
+        "RESID": 480,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1691,
+        "RESID": 480,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 15
+      },
+      {
+        "ID": 1692,
+        "RESID": 480,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1693,
+        "RESID": 480,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 13
+      },
+      {
+        "ID": 1694,
+        "RESID": 480,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 6
+      }
+    ]
+  },
+  {
+    "ID": 481,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "کاری که انجام می‌دهم با شرح وظایف سازمانی ام تناسب دارد.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 481,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1696,
+        "RESID": 481,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1697,
+        "RESID": 481,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 16
+      },
+      {
+        "ID": 1698,
+        "RESID": 481,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1699,
+        "RESID": 481,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1700,
+        "RESID": 481,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 7
+      },
+      {
+        "ID": 1701,
+        "RESID": 481,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 482,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "حقوقی كه دریافت می نمایم، در مقایسه با سایر پست های سازمان متوازن است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 482,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1702,
+        "RESID": 482,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1703,
+        "RESID": 482,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 6
+      },
+      {
+        "ID": 1704,
+        "RESID": 482,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 8
+      },
+      {
+        "ID": 1705,
+        "RESID": 482,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1706,
+        "RESID": 482,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 14
+      },
+      {
+        "ID": 1707,
+        "RESID": 482,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 483,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "به طور کلی ساختار حقوق (به استثناء پاداش و مزایا) به صورت منصفانه ای طراحی شده است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 483,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1708,
+        "RESID": 483,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1709,
+        "RESID": 483,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1710,
+        "RESID": 483,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 8
+      },
+      {
+        "ID": 1711,
+        "RESID": 483,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 8
+      },
+      {
+        "ID": 1712,
+        "RESID": 483,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 14
+      },
+      {
+        "ID": 1713,
+        "RESID": 483,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 484,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "به خوبی می دانم ساختار حقوق من از چه اجزایی تشکیل شده است.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 484,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1714,
+        "RESID": 484,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1715,
+        "RESID": 484,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 29
+      },
+      {
+        "ID": 1716,
+        "RESID": 484,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1717,
+        "RESID": 484,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1718,
+        "RESID": 484,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1719,
+        "RESID": 484,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 1
+      }
+    ]
+  },
+  {
+    "ID": 485,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "از نحوه رسیدگی، تعامل و پاسخگویی همکاران واحد سازماندهی و طبقه بندی مشاغل رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 485,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1720,
+        "RESID": 485,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1721,
+        "RESID": 485,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 16
+      },
+      {
+        "ID": 1722,
+        "RESID": 485,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1723,
+        "RESID": 485,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 12
+      },
+      {
+        "ID": 1724,
+        "RESID": 485,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 9
+      },
+      {
+        "ID": 1725,
+        "RESID": 485,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 486,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "با در نظر گرفتن همه موارد و محدودیت ها، از خدمات واحد سازماندهی و طبقه بندی مشاغل رضایت دارم.",
+    "NAM_SRT_QUESTION_QSTN": null,
+    "RSPNSID": 486,
+    "FLG_DEMOGRAPHIC_QSTN": 0,
+    "OPTIONS": [
+      {
+        "ID": 1726,
+        "RESID": 486,
+        "NAM_OPTION_RSDTL": "کاملاً موافقم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1727,
+        "RESID": 486,
+        "NAM_OPTION_RSDTL": "موافقم",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 11
+      },
+      {
+        "ID": 1728,
+        "RESID": 486,
+        "NAM_OPTION_RSDTL": "نه موافقم نه مخالف",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 8
+      },
+      {
+        "ID": 1729,
+        "RESID": 486,
+        "NAM_OPTION_RSDTL": "مخالفم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 13
+      },
+      {
+        "ID": 1730,
+        "RESID": 486,
+        "NAM_OPTION_RSDTL": "کاملاً مخالفم",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 8
+      },
+      {
+        "ID": 1731,
+        "RESID": 486,
+        "NAM_OPTION_RSDTL": "نمی دانم/ کاربردی ندارد",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 488,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "چند سال دارید؟",
+    "NAM_SRT_QUESTION_QSTN": "سن",
+    "RSPNSID": 488,
+    "FLG_DEMOGRAPHIC_QSTN": 1,
+    "OPTIONS": [
+      {
+        "ID": 1733,
+        "RESID": 488,
+        "NAM_OPTION_RSDTL": "کمتر از 25 سال",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1734,
+        "RESID": 488,
+        "NAM_OPTION_RSDTL": "بین 25 تا 30 سال",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1735,
+        "RESID": 488,
+        "NAM_OPTION_RSDTL": "بین 30 تا 35 سال",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1736,
+        "RESID": 488,
+        "NAM_OPTION_RSDTL": "بین 35 تا 40 سال",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 21
+      },
+      {
+        "ID": 1737,
+        "RESID": 488,
+        "NAM_OPTION_RSDTL": "بالاتر از 40 سال",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 16
+      }
+    ]
+  },
+  {
+    "ID": 489,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "جنسیت شما چیست؟",
+    "NAM_SRT_QUESTION_QSTN": "جنسیت",
+    "RSPNSID": 489,
+    "FLG_DEMOGRAPHIC_QSTN": 1,
+    "OPTIONS": [
+      {
+        "ID": 1738,
+        "RESID": 489,
+        "NAM_OPTION_RSDTL": "مرد",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 38
+      },
+      {
+        "ID": 1739,
+        "RESID": 489,
+        "NAM_OPTION_RSDTL": "زن",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 2
+      }
+    ]
+  },
+  {
+    "ID": 490,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "وضعیت تاهل شما چیست؟",
+    "NAM_SRT_QUESTION_QSTN": "تاهل",
+    "RSPNSID": 490,
+    "FLG_DEMOGRAPHIC_QSTN": 1,
+    "OPTIONS": [
+      {
+        "ID": 1740,
+        "RESID": 490,
+        "NAM_OPTION_RSDTL": "متاهل",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 38
+      },
+      {
+        "ID": 1741,
+        "RESID": 490,
+        "NAM_OPTION_RSDTL": "مجرد",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 2
+      }
+    ]
+  },
+  {
+    "ID": 491,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "سطح تحصیلات شما چیست؟",
+    "NAM_SRT_QUESTION_QSTN": "تحصیلات",
+    "RSPNSID": 491,
+    "FLG_DEMOGRAPHIC_QSTN": 1,
+    "OPTIONS": [
+      {
+        "ID": 1742,
+        "RESID": 491,
+        "NAM_OPTION_RSDTL": "فوق لیسانس/ دکتری",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 19
+      },
+      {
+        "ID": 1743,
+        "RESID": 491,
+        "NAM_OPTION_RSDTL": "لیسانس",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 21
+      },
+      {
+        "ID": 1744,
+        "RESID": 491,
+        "NAM_OPTION_RSDTL": "فوق دیپلم",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1745,
+        "RESID": 491,
+        "NAM_OPTION_RSDTL": "دیپلم/ زیر دیپلم",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 492,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "رده شغلی شما چیست؟",
+    "NAM_SRT_QUESTION_QSTN": "رده شغلی",
+    "RSPNSID": 492,
+    "FLG_DEMOGRAPHIC_QSTN": 1,
+    "OPTIONS": [
+      {
+        "ID": 1746,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "معاون",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1747,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "مدیر",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1748,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "رئیس",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 23
+      },
+      {
+        "ID": 1749,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "سرپرست",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 16
+      },
+      {
+        "ID": 1750,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "کارشناس",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1751,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "مسئول",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1752,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "کارمند/ کارپرداز/ انباردار",
+        "NUM_PRIORITY_RSDTL": 7,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1753,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": " تکنسین/ کاردان",
+        "NUM_PRIORITY_RSDTL": 8,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1754,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "متصدی",
+        "NUM_PRIORITY_RSDTL": 9,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1755,
+        "RESID": 492,
+        "NAM_OPTION_RSDTL": "اپراتور/ تعمیرکار/ بازرس",
+        "NUM_PRIORITY_RSDTL": 10,
+        "COUNTRPLY": 0
+      }
+    ]
+  },
+  {
+    "ID": 493,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "نوع قرارداد شما چیست؟",
+    "NAM_SRT_QUESTION_QSTN": "قرارداد",
+    "RSPNSID": 493,
+    "FLG_DEMOGRAPHIC_QSTN": 1,
+    "OPTIONS": [
+      {
+        "ID": 1756,
+        "RESID": 493,
+        "NAM_OPTION_RSDTL": "قرارداد مستقیم",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1757,
+        "RESID": 493,
+        "NAM_OPTION_RSDTL": "امانی",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 37
+      }
+    ]
+  },
+  {
+    "ID": 494,
+    "SVDRID": 389,
+    "SVDRDETAILID": 882,
+    "NAM_QUESTION_QSTN": "چند سال در فولاد هرمزگان سابقه کار دارید؟",
+    "NAM_SRT_QUESTION_QSTN": "سابقه کار",
+    "RSPNSID": 494,
+    "FLG_DEMOGRAPHIC_QSTN": 1,
+    "OPTIONS": [
+      {
+        "ID": 1758,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "تا 2 سال",
+        "NUM_PRIORITY_RSDTL": 1,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1759,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "از 2 تا 3 سال",
+        "NUM_PRIORITY_RSDTL": 2,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1760,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "از 3 تا 4 سال",
+        "NUM_PRIORITY_RSDTL": 3,
+        "COUNTRPLY": 1
+      },
+      {
+        "ID": 1761,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "از 4 تا 5 سال",
+        "NUM_PRIORITY_RSDTL": 4,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1762,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "از 5 تا 6 سال",
+        "NUM_PRIORITY_RSDTL": 5,
+        "COUNTRPLY": 0
+      },
+      {
+        "ID": 1763,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "از 6 تا 7 سال",
+        "NUM_PRIORITY_RSDTL": 6,
+        "COUNTRPLY": 2
+      },
+      {
+        "ID": 1764,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "از 7 تا 8 سال",
+        "NUM_PRIORITY_RSDTL": 7,
+        "COUNTRPLY": 3
+      },
+      {
+        "ID": 1765,
+        "RESID": 494,
+        "NAM_OPTION_RSDTL": "از 8  سال به بالا",
+        "NUM_PRIORITY_RSDTL": 8,
+        "COUNTRPLY": 34
+      }
+    ]
+  }
+]
