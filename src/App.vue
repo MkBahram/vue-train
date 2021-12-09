@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import DataTable from "./components/table.vue";
+import DataTable from "./components/DataTable.vue";
 
 export default {
   name: "App",
@@ -16,8 +16,7 @@ export default {
     DataTable,
   },
 
-  data: () => ({
-    //
-  }),
+  data: () => ({}),
+  methods: {},
 };
 </script>
